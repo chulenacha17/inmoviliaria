@@ -27,7 +27,7 @@ body{
 }
 
 section{
-    padding: 2rem ;
+    padding: 2rem 9%;
 }
 
 header{
@@ -85,6 +85,11 @@ header .icons #menu-bars{
     display: none;
 }
 
+ .home {
+    min-height: 100vh;
+    background: url(../imagenes/) no-repeat;
+
+ }
 
 
 
