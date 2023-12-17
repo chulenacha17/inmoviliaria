@@ -204,6 +204,12 @@ header .icons #menu-bars{
     line-height: 2;
 }
 
+.featured .box-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+}
+
 
 
 
